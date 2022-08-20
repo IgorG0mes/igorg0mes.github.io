@@ -1,0 +1,30 @@
+@media(max-width: 770px){
+  .Retangle {
+    width: 350px;
+    height: auto;
+  }
+
+  .Profile {
+    max-width: 350px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+  }
+
+  .SocialIcon {
+    height: auto;
+    padding-top: 30px;
+    width: 350px;
+  }
+
+  .Title {
+    width: auto;
+    text-align: center;
+  }
+
+  .Bio {
+    height: auto;
+    width: auto;
+    padding: 17px 23px 0px;
+  }
+}
