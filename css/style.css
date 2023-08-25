@@ -5,6 +5,7 @@ html {
   opacity: 0.9;
   background: url(/upload/fundo.jpg) no-repeat left top;
   background-size: cover;
+  position: fixed;
 }
 
 body {
