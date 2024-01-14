@@ -47,8 +47,8 @@ body {
   border-color: #3d3d3d;
   border-style: solid;
   border-radius: 50%;
-  background-image: url(/upload/3X4.jpg);
-  background-position: 50% 100%;
+  background-image: url(/upload/3x4.jpg);
+  background-position: 50% 90%;
   background-size: 100%;
   float: left;
   filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0,0,0,.5));
