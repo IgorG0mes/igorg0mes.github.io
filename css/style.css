@@ -119,8 +119,8 @@ body {
 .Title {
   box-sizing: inherit;
   width: 400px;
-  height: 59px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 32px;
+  font-family: "Epunda Slab", serif;
   text-align: justify;
   font-size: 17px;
   padding: 0px 23px 0px;
@@ -131,7 +131,7 @@ body {
   box-sizing: inherit;
   width: 400px;
   height: 300px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Epunda Slab", serif;
   text-align: justify;
   font-size: 15px;
   padding: 0px 23px 0px;
